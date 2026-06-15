@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Damo Tracker | 大摩闭门会追踪器</title>
+  <style>
+    :root {
+      --bg: #f7f8fb;
+      --ink: #172033;
+      --muted: #5d667a;
+      --line: #d9dfeb;
+      --blue: #2257c7;
+      --green: #157a5a;
+      --amber: #ad6b00;
+      --panel: #ffffff;
+      --soft: #edf2ff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      line-height: 1.5;
+    }
+
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .shell {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+      gap: 28px;
+      align-items: center;
+      min-height: 520px;
+      padding: 34px 0 28px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: var(--blue);
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      background: var(--green);
+      box-shadow: 0 0 0 5px rgba(21, 122, 90, 0.12);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(38px, 7vw, 76px);
+      line-height: 0.98;
+      letter-spacing: 0;
+    }
+
+    .lead {
+      max-width: 640px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: 18px;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 28px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--ink);
+      font-weight: 700;
+    }
+
+    .button.primary {
+      background: var(--blue);
+      border-color: var(--blue);
+      color: #fff;
+    }
+
+    .terminal {
+      background: #111827;
+      color: #d5e2ff;
+      border-radius: 8px;
+      padding: 18px;
+      box-shadow: 0 22px 60px rgba(23, 32, 51, 0.18);
+      overflow: hidden;
+    }
+
+    .terminal-header {
+      display: flex;
+      gap: 7px;
+      margin-bottom: 18px;
+    }
+
+    .lamp {
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: #ef5b5b;
+    }
+
+    .lamp:nth-child(2) { background: #e4b044; }
+    .lamp:nth-child(3) { background: #45b879; }
+
+    pre {
+      margin: 0;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font: 13px/1.62 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 10px;
+    }
+
+    .metric,
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+    }
+
+    .metric strong {
+      display: block;
+      font-size: 30px;
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+
+    .metric span,
+    .panel p {
+      color: var(--muted);
+    }
+
+    section {
+      margin-top: 38px;
+    }
+
+    h2 {
+      margin: 0 0 14px;
+      font-size: 28px;
+      letter-spacing: 0;
+    }
+
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .step {
+      position: relative;
+      min-height: 132px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px;
+    }
+
+    .step small {
+      display: inline-flex;
+      margin-bottom: 10px;
+      color: var(--blue);
+      font-weight: 800;
+    }
+
+    .step h3,
+    .panel h3 {
+      margin: 0 0 8px;
+      font-size: 17px;
+    }
+
+    .step p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 16px;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .badge {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: var(--soft);
+      color: #244072;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .sample {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 16px;
+    }
+
+    .report-list {
+      margin: 0;
+      padding-left: 18px;
+      color: var(--muted);
+    }
+
+    .report-list li { margin: 8px 0; }
+
+    .footer {
+      margin-top: 46px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 860px) {
+      .hero,
+      .two-col,
+      .sample {
+        grid-template-columns: 1fr;
+      }
+
+      .grid,
+      .flow {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 520px) {
+      .shell { padding: 22px 14px 40px; }
+      .grid,
+      .flow {
+        grid-template-columns: 1fr;
+      }
+      .terminal { padding: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <div class="eyebrow"><span class="dot"></span>Daily Morgan Stanley signal tracker</div>
+        <h1>Damo Tracker</h1>
+        <p class="lead">一个面向量化复盘的自动追踪任务：检索“大摩闭门会”视频，优先获取字幕，必要时转写音频，从明确推荐里提取 A 股/港股标的，并把覆盖率、截断风险和失败原因一起交代清楚。</p>
+        <div class="actions">
+          <a class="button primary" href="README.md">查看 README</a>
+          <a class="button" href="examples/sample_damo_report.md">样例报告</a>
+        </div>
+      </div>
+      <div class="terminal" aria-label="示例命令">
+        <div class="terminal-header">
+          <span class="lamp"></span><span class="lamp"></span><span class="lamp"></span>
+        </div>
+        <pre>$ ./damo_run.sh
+范围：昨天
+扫描：47 个视频
+已分析：40 个，占 85.1%
+截断但已分析：10 个
+完全失败：7 个
+提取标的：10 支
+
+输出：
+- damo_result.json
+- damo_report_current.md
+- damo_runs/...</pre>
+      </div>
+    </section>
+
+    <section>
+      <div class="grid">
+        <div class="metric"><strong>每日</strong><span>默认追踪前一天的视频与观点</span></div>
+        <div class="metric"><strong>模型无关</strong><span>交给当前 OpenClaw 环境路由</span></div>
+        <div class="metric"><strong>截断可用</strong><span>分析片段，同时显式标风险</span></div>
+        <div class="metric"><strong>周报联动</strong><span>自动并入 A 股周度复盘</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>工作流</h2>
+      <div class="flow">
+        <div class="step"><small>01</small><h3>检索视频</h3><p>用 OpenCLI 与 B 站接口双路径搜索“大摩/摩根士丹利”。</p></div>
+        <div class="step"><small>02</small><h3>获取内容</h3><p>优先字幕，失败后用 yt-dlp、Whisper、浏览器和 API 兜底。</p></div>
+        <div class="step"><small>03</small><h3>提取标的</h3><p>只提明确看好、买入、超配或可布局的 A 股/港股。</p></div>
+        <div class="step"><small>04</small><h3>校验去重</h3><p>兼容 ASR 错字和股票别名，保留 raw 候选供复核。</p></div>
+        <div class="step"><small>05</small><h3>生成报告</h3><p>输出覆盖概览、标的速览、详情、截断片段与失败诊断。</p></div>
+      </div>
+    </section>
+
+    <section class="two-col">
+      <div class="panel">
+        <h3>为什么不是只给股票列表</h3>
+        <p>视频源经常遇到 B 站 412、无公开字幕、试看媒体或浏览器桥接不可用。报告会把扫描数、失败数、截断数、raw 候选和去重标的一起展示，避免把不完整结果误判成完整追踪。</p>
+        <div class="badge-row">
+          <span class="badge">覆盖率</span>
+          <span class="badge">截断标记</span>
+          <span class="badge">失败诊断</span>
+          <span class="badge">来源链接</span>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>适合放进哪些任务</h3>
+        <p>每天 07:05 跑前一天；周六 A 股周报聚合本周结果；周日知识沉淀把 A 股周报与大摩追踪再提炼成策略观察和下周动作。</p>
+        <div class="badge-row">
+          <span class="badge">Daily cron</span>
+          <span class="badge">Weekly report</span>
+          <span class="badge">Knowledge review</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="sample">
+      <div>
+        <h2>报告结构</h2>
+        <ol class="report-list">
+          <li>覆盖概览：扫描、已分析、截断、失败、提取数量</li>
+          <li>标的速览：一行看完股票、评级、目标价和一句话逻辑</li>
+          <li>标的详情：理由、来源视频、发布日期和链接</li>
+          <li>截断片段：说明哪些内容只基于片段分析</li>
+          <li>失败诊断：把技术报错压缩成可行动的人话</li>
+        </ol>
+      </div>
+      <div class="terminal" aria-label="报告片段">
+        <div class="terminal-header">
+          <span class="lamp"></span><span class="lamp"></span><span class="lamp"></span>
+        </div>
+        <pre>标的速览
+1. 阳光电源 300274.SZ｜首次覆盖，看好｜目标价 230元｜AI 数据中心电力架构升级...
+2. 小鹏汽车 09868.HK｜超配｜目标价 96港元｜从汽车向物理 AI 平台转型...
+
+失败诊断
+- B站/yt-dlp 412 或反爬限制
+- 视频没有可用公开字幕</pre>
+      </div>
+    </section>
+
+    <div class="footer">
+      研究观察工具，不构成投资建议。所有模型提取结果都应回到原视频和报告 JSON 复核。
+    </div>
+  </main>
+</body>
+</html>

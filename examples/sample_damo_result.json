@@ -1,0 +1,729 @@
+{
+  "date_range": [
+    "2026-06-06",
+    "2026-06-15"
+  ],
+  "videos": [
+    {
+      "bvid": "BV1M5J36wEC5",
+      "title": "6.15完整版大摩闭门会｜对美伊协议/油价/降息的预期，解读全球市场的巨大波动，中国下半年的六张网建设",
+      "url": "https://www.bilibili.com/video/BV1M5J36wEC5",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV19wJ36uEVB",
+      "title": "6-15号大摩最新闭门会：股票首席Laura发言",
+      "url": "https://www.bilibili.com/video/BV19wJ36uEVB",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1VNJ36MECG",
+      "title": "大摩闭门会：邢自强、Larau Wang：对外投资紧，对内投资热？",
+      "url": "https://www.bilibili.com/video/BV1VNJ36MECG",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1oqJ36LEhh",
+      "title": "6-15号大摩最新闭门会：对外投资紧，对内投资热？",
+      "url": "https://www.bilibili.com/video/BV1oqJ36LEhh",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1BeJ367Eun",
+      "title": "完整免费版大摩闭门会6.15｜对外投资紧，对内投资热?",
+      "url": "https://www.bilibili.com/video/BV1BeJ367Eun",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1CxJ36XE56",
+      "title": "【完整高清字幕版】大摩闭门会：邢自强、Larau Wang：对外投资紧，对内投资热？ 260615全网最快（推荐程度：5星必看）",
+      "url": "https://www.bilibili.com/video/BV1CxJ36XE56",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1o6Jw6HEHz",
+      "title": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "url": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "date": "2026-06-10",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1A4Jw6wEey",
+      "title": "大摩内部闭门会（2026-6-12）周期没有结束，不要慌！基本面还在的！探讨新经济与科技产业的投资策",
+      "url": "https://www.bilibili.com/video/BV1A4Jw6wEey",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1zZJW6JEYc",
+      "title": "大摩闭门会：中国香港地产专家会 260611全网独家（推荐程度：6.8星选看）",
+      "url": "https://www.bilibili.com/video/BV1zZJW6JEYc",
+      "date": "2026-06-11",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV16DJH6jE6X",
+      "title": "大摩闭门会：日本经济与货币政策 260612全网独家（推荐程度：6星选看）",
+      "url": "https://www.bilibili.com/video/BV16DJH6jE6X",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV19KJp6KE7f",
+      "title": "【完整高清版】大摩闭门会：中国原材料 260612B站独家（推荐程度：6星选看）",
+      "url": "https://www.bilibili.com/video/BV19KJp6KE7f",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1LJJH6BE9o",
+      "title": "大摩闭门会：中国材料行业周度展望 260613全网最快（推荐程度：4星选看）",
+      "url": "https://www.bilibili.com/video/BV1LJJH6BE9o",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1RHJH6KE1G",
+      "title": "大摩闭门会：对潜在数据中心投资计划的看法 2606013全网最快（推荐程度：4星选看）",
+      "url": "https://www.bilibili.com/video/BV1RHJH6KE1G",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1ojJH6zE1X",
+      "title": "大摩闭门会：Laura Wang：全球市场波动加剧，A 股市场情绪走弱 260612全网最快（推荐程度：4星选看）",
+      "url": "https://www.bilibili.com/video/BV1ojJH6zE1X",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV14XJE6EE8M",
+      "title": "大摩闭门会：存储与MLCC行业更新20260612",
+      "url": "https://www.bilibili.com/video/BV14XJE6EE8M",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1g6Jj6UEyx",
+      "title": "6-12号大摩最新闭门会:存储芯片和MLCC板块分析解读",
+      "url": "https://www.bilibili.com/video/BV1g6Jj6UEyx",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1YoJ76dEgD",
+      "title": "6-12号大摩最新闭门会：存储与MLCC。",
+      "url": "https://www.bilibili.com/video/BV1YoJ76dEgD",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1daoGBME2r",
+      "title": "【中文】大摩闭门会6.12｜存储周期继续上行近期只是回调，cpo短期有落差但长期趋势不变，mlcc的关键叙事和市场动态",
+      "url": "https://www.bilibili.com/video/BV1daoGBME2r",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV136Ey6bEC8",
+      "title": "【最新】大摩内部闭门会（2026-6-12）周期没有结束，不要慌！基本面还在的！探讨新经济与科技产业的投资策略指南，下一步市场分析和走势的判断",
+      "url": "https://www.bilibili.com/video/BV136Ey6bEC8",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1FAE16CEMy",
+      "title": "大摩科技闭门会：存储与MLCC 2026.6.12",
+      "url": "https://www.bilibili.com/video/BV1FAE16CEMy",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1hKE268EVY",
+      "title": "大摩闭门会：存储与MLCC_260612(1)",
+      "url": "https://www.bilibili.com/video/BV1hKE268EVY",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1DnEC6pEAf",
+      "title": "【完整高清字幕版】大摩闭门会：存储与MLCC 260612全网最快（推荐程度：5星必看）",
+      "url": "https://www.bilibili.com/video/BV1DnEC6pEAf",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1riEr6eETg",
+      "title": "大摩闭门会：存储与MLCC 260612全网最快（推荐程度：5星必看）",
+      "url": "https://www.bilibili.com/video/BV1riEr6eETg",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1MpEr65EaV",
+      "title": "大摩闭门会：邢自强：AI 与能源超级周期下的中国经济展望 260612全网最快（推荐程度：4星选看）",
+      "url": "https://www.bilibili.com/video/BV1MpEr65EaV",
+      "date": "2026-06-12",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1JREB6REaN",
+      "title": "大摩闭门会：邢自强：合肥模式为何只在合肥？ 260611全网最快（推荐程度：4星选看）",
+      "url": "https://www.bilibili.com/video/BV1JREB6REaN",
+      "date": "2026-06-11",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV11JEq6fEcG",
+      "title": "大摩闭门会：存储：一次健康的调整 260611全网最快（推荐程度：4星推荐）",
+      "url": "https://www.bilibili.com/video/BV11JEq6fEcG",
+      "date": "2026-06-11",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1QwEv6YEX5",
+      "title": "【高清字幕版】大摩闭门会：美国科技双月电话会 260611全网独家（推荐程度：6星选看）",
+      "url": "https://www.bilibili.com/video/BV1QwEv6YEX5",
+      "date": "2026-06-11",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1STEv6FEQu",
+      "title": "20260611 大摩闭门会：拆解本轮权益回调本质、区域分化逻辑，解锁 5-7 年工业超级周期的投资机遇",
+      "url": "https://www.bilibili.com/video/BV1STEv6FEQu",
+      "date": "2026-06-11",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1HAEi6QEZw",
+      "title": "大摩闭门会：腾讯：微信小程序接入AI生态测试相关解读 260609（推荐程度：4星选看）",
+      "url": "https://www.bilibili.com/video/BV1HAEi6QEZw",
+      "date": "2026-06-09",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1cXVz6EE1c",
+      "title": "中金大摩讲楼市，到底该信谁？",
+      "url": "https://www.bilibili.com/video/BV1cXVz6EE1c",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1rLJA6tEPe",
+      "title": "2026年06月 大摩  美联储  政策立场 视频时长10分钟",
+      "url": "https://www.bilibili.com/video/BV1rLJA6tEPe",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1qLJg6rEbF",
+      "title": "大摩邢自强：三重流动性暗流扰动全球",
+      "url": "https://www.bilibili.com/video/BV1qLJg6rEbF",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1c1JM6VEXX",
+      "title": "大摩邢自强最新闭门观点 260615全网最快（推荐程度：5星必看）",
+      "url": "https://www.bilibili.com/video/BV1c1JM6VEXX",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1mKJN6GE7m",
+      "title": "大摩：2万亿数据中心投资的传闻是真是假？",
+      "url": "https://www.bilibili.com/video/BV1mKJN6GE7m",
+      "date": "2026-06-15",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1PaJP6iENd",
+      "title": "大摩：CPO不是当下机会，光学含量暴涨才是真正主线",
+      "url": "https://www.bilibili.com/video/BV1PaJP6iENd",
+      "date": "2026-06-14",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1M2Jj6yEP3",
+      "title": "2026年06月 大摩 存储器行业 健康的回调 视频时长39分钟",
+      "url": "https://www.bilibili.com/video/BV1M2Jj6yEP3",
+      "date": "2026-06-14",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1oqJF61EV7",
+      "title": "大摩96港元目标价：小鹏的价值不止于车#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1oqJF61EV7",
+      "date": "2026-06-14",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1J8JF6HESX",
+      "title": "又升了！#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1J8JF6HESX",
+      "date": "2026-06-14",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1HXJc6sEKR",
+      "title": "躺平叔6.13大摩揭穿楼市",
+      "url": "https://www.bilibili.com/video/BV1HXJc6sEKR",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1c3JW6QESU",
+      "title": "大摩：蔚来乐道L60增配降价，利润从何而来？",
+      "url": "https://www.bilibili.com/video/BV1c3JW6QESU",
+      "date": "2026-06-14",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1BRJH6CE86",
+      "title": "#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1BRJH6CE86",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1yrJH6pE4J",
+      "title": "小鹏即将迎来价值全面重估#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1yrJH6pE4J",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV14jJp6bEt4",
+      "title": "看到并提出要全面拥抱物理AI并不难，难的是一步步做到，比如像小鹏集团酱婶的#大摩推小鹏汽车即机器人 #大摩看好小鹏维持超配目标价96港元 #小鹏汽车 #小鹏集团",
+      "url": "https://www.bilibili.com/video/BV14jJp6bEt4",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1spJp6sEPN",
+      "title": "登顶CVPR顶会+券商背书，小鹏实力彻底出圈#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1spJp6sEPN",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1YKJp6KEjJ",
+      "title": "小鹏转型物理 AI 真能重构行业格局？#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1YKJp6KEjJ",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1jBJp65ECC",
+      "title": "两大头部券商看好小鹏物理AI转型，其技术实力雄厚#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1jBJp65ECC",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    },
+    {
+      "bvid": "BV1V1Jp6zEUu",
+      "title": "看好小鹏向物理AI转型的长期价值#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1V1Jp6zEUu",
+      "date": "2026-06-13",
+      "search_source": "bilibili_api_fallback"
+    }
+  ],
+  "failed": [
+    {
+      "bvid": "BV1zZJW6JEYc",
+      "title": "大摩闭门会：中国香港地产专家会 260611全网独家（推荐程度：6.8星选看）",
+      "url": "https://www.bilibili.com/video/BV1zZJW6JEYc",
+      "date": "2026-06-11",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    },
+    {
+      "bvid": "BV1QwEv6YEX5",
+      "title": "【高清字幕版】大摩闭门会：美国科技双月电话会 260611全网独家（推荐程度：6星选看）",
+      "url": "https://www.bilibili.com/video/BV1QwEv6YEX5",
+      "date": "2026-06-11",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    },
+    {
+      "bvid": "BV1J8JF6HESX",
+      "title": "又升了！#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1J8JF6HESX",
+      "date": "2026-06-14",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    },
+    {
+      "bvid": "BV14jJp6bEt4",
+      "title": "看到并提出要全面拥抱物理AI并不难，难的是一步步做到，比如像小鹏集团酱婶的#大摩推小鹏汽车即机器人 #大摩看好小鹏维持超配目标价96港元 #小鹏汽车 #小鹏集团",
+      "url": "https://www.bilibili.com/video/BV14jJp6bEt4",
+      "date": "2026-06-13",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    },
+    {
+      "bvid": "BV1spJp6sEPN",
+      "title": "登顶CVPR顶会+券商背书，小鹏实力彻底出圈#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1spJp6sEPN",
+      "date": "2026-06-13",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    },
+    {
+      "bvid": "BV1jBJp65ECC",
+      "title": "两大头部券商看好小鹏物理AI转型，其技术实力雄厚#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1jBJp65ECC",
+      "date": "2026-06-13",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    },
+    {
+      "bvid": "BV1V1Jp6zEUu",
+      "title": "看好小鹏向物理AI转型的长期价值#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "url": "https://www.bilibili.com/video/BV1V1Jp6zEUu",
+      "date": "2026-06-13",
+      "reason": "B站/yt-dlp 412 或反爬限制；无可用公开字幕；浏览器桥接未返回正文"
+    }
+  ],
+  "partial": [
+    {
+      "bvid": "BV19wJ36uEVB",
+      "title": "6-15号大摩最新闭门会：股票首席Laura发言",
+      "url": "https://www.bilibili.com/video/BV19wJ36uEVB",
+      "date": "2026-06-15",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（180秒 / 原视频965秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV1oqJ36LEhh",
+      "title": "6-15号大摩最新闭门会：对外投资紧，对内投资热？",
+      "url": "https://www.bilibili.com/video/BV1oqJ36LEhh",
+      "date": "2026-06-15",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（300秒 / 原视频4397秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV16DJH6jE6X",
+      "title": "大摩闭门会：日本经济与货币政策 260612全网独家（推荐程度：6星选看）",
+      "url": "https://www.bilibili.com/video/BV16DJH6jE6X",
+      "date": "2026-06-12",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（360秒 / 原视频2691秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV19KJp6KE7f",
+      "title": "【完整高清版】大摩闭门会：中国原材料 260612B站独家（推荐程度：6星选看）",
+      "url": "https://www.bilibili.com/video/BV19KJp6KE7f",
+      "date": "2026-06-12",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（363秒 / 原视频3655秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV1YoJ76dEgD",
+      "title": "6-12号大摩最新闭门会：存储与MLCC。",
+      "url": "https://www.bilibili.com/video/BV1YoJ76dEgD",
+      "date": "2026-06-12",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（180秒 / 原视频1667秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV1daoGBME2r",
+      "title": "【中文】大摩闭门会6.12｜存储周期继续上行近期只是回调，cpo短期有落差但长期趋势不变，mlcc的关键叙事和市场动态",
+      "url": "https://www.bilibili.com/video/BV1daoGBME2r",
+      "date": "2026-06-12",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（270秒 / 原视频1682秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV1FAE16CEMy",
+      "title": "大摩科技闭门会：存储与MLCC 2026.6.12",
+      "url": "https://www.bilibili.com/video/BV1FAE16CEMy",
+      "date": "2026-06-12",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（420秒 / 原视频1645秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV1riEr6eETg",
+      "title": "大摩闭门会：存储与MLCC 260612全网最快（推荐程度：5星必看）",
+      "url": "https://www.bilibili.com/video/BV1riEr6eETg",
+      "date": "2026-06-12",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（123秒 / 原视频1669秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV11JEq6fEcG",
+      "title": "大摩闭门会：存储：一次健康的调整 260611全网最快（推荐程度：4星推荐）",
+      "url": "https://www.bilibili.com/video/BV11JEq6fEcG",
+      "date": "2026-06-11",
+      "reason": "已使用日常 Chrome 登录 cookie 下载，但 B站只返回疑似试看媒体（603秒 / 原视频1235秒）；以下分析仅基于该截断片段",
+      "source": "partial_whisper"
+    },
+    {
+      "bvid": "BV1M2Jj6yEP3",
+      "title": "2026年06月 大摩 存储器行业 健康的回调 视频时长39分钟",
+      "url": "https://www.bilibili.com/video/BV1M2Jj6yEP3",
+      "date": "2026-06-14",
+      "reason": "缓存转录疑似不完整；以下分析仅基于该截断片段",
+      "source": "partial_cache"
+    }
+  ],
+  "raw_stocks": [
+    {
+      "股票名称": "阳光电源",
+      "股票代码": "300274.SZ",
+      "评级": "首次覆盖，看好",
+      "目标价": "230元",
+      "推荐理由": "公司正在从全球领先的光伏逆变器和储能企业转型为一体化AI电力解决方案提供商，有望受益于AI数据中心电力架构升级；其数据中心储能、SST及整体解决方案到2028年可能贡献接近200亿元收入和约39亿元净利润，估值相对全球同业有吸引力，是产业链里比较好的标的。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "大金重工",
+      "股票代码": "002487.SZ/01081.HK",
+      "评级": "看好",
+      "目标价": "原文未提及",
+      "推荐理由": "公司仍有信心完成今年海上风电基础装备200亿元订单目标，造船订单目标200亿至300亿元且进展正常；公司通过欧洲本土化布局、法务沟通和产业链合作降低潜在关税风险，基本面和估值都有吸引力，是板块里比较看好的股票。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "先导智能",
+      "股票代码": "300450.SZ",
+      "评级": "比较喜欢",
+      "目标价": "原文未提及",
+      "推荐理由": "受益于下游电池厂CAPEX扩张和技术迭代，二季度新签订单情况好于预期，可维持一季度约60%的增速甚至更高，新接订单利润率明显回升，储能业务增速很快。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "大族激光",
+      "股票代码": "002008.SZ",
+      "评级": "比较喜欢",
+      "目标价": "原文未提及",
+      "推荐理由": "同时受益于PCB和苹果产业链景气周期；AI服务器PCB、光模块PCB以及先进封装TGV等领域带来更高价值量和更好利润率，苹果设备需求到2027年也强于年初预期。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "思源电气",
+      "股票代码": "002028.SZ",
+      "评级": "非常喜欢，回调是买入机会",
+      "目标价": "原文未提及",
+      "推荐理由": "近期股价波动主要是板块轮动，不是二季度业绩低于预期；公司二季度情况正常、订单趋势较强，海外业务拓展、市场份额提升和产品结构改善可支撑中长期订单30%以上增速，收入和利润趋势好于订单增速，任何股价回调都是较好的买入机会。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "腾讯控股",
+      "股票代码": "00700.HK",
+      "评级": "买入",
+      "目标价": "763港元",
+      "推荐理由": "微信将小程序和AI生态深度整合，并开始测试通过微信AI推荐和使用小程序；首批头部合作伙伴已参与内测，说明微信AI Agent开发接近关键阶段，对微信生态是较大利好；花旗维持腾讯买入评级。",
+      "来源视频": "大摩闭门会：腾讯：微信小程序接入AI生态测试相关解读 260609（推荐程度：4星选看）",
+      "来源链接": "https://www.bilibili.com/video/BV1HAEi6QEZw",
+      "发布日期": "2026-06-09",
+      "_bvid": "BV1HAEi6QEZw"
+    },
+    {
+      "股票名称": "中国铁塔",
+      "股票代码": "00788.HK",
+      "评级": "超配",
+      "目标价": "原文未提及",
+      "推荐理由": "原文称中国铁塔被大摩超配，因为它受益于5G和边缘计算的基础设施需求。",
+      "来源视频": "大摩：2万亿数据中心投资的传闻是真是假？",
+      "来源链接": "https://www.bilibili.com/video/BV1mKJN6GE7m",
+      "发布日期": "2026-06-15",
+      "_bvid": "BV1mKJN6GE7m"
+    },
+    {
+      "股票名称": "华润置地",
+      "股票代码": "01109.HK",
+      "评级": "首选标的",
+      "目标价": "原文未提及",
+      "推荐理由": "原文称继续建议投资者重点关注那些兼具行业整体增长红利与自身业绩增长潜力的个股，并认为华润置地为首选标的。",
+      "来源视频": "躺平叔6.13大摩揭穿楼市",
+      "来源链接": "https://www.bilibili.com/video/BV1HXJc6sEKR",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1HXJc6sEKR"
+    },
+    {
+      "股票名称": "建发股份",
+      "股票代码": "600153.SH",
+      "评级": "其次推荐",
+      "目标价": "原文未提及",
+      "推荐理由": "原文称继续建议投资者重点关注那些兼具行业整体增长红利与自身业绩增长潜力的个股，华润置地为首选标的，其次是建发股份。",
+      "来源视频": "躺平叔6.13大摩揭穿楼市",
+      "来源链接": "https://www.bilibili.com/video/BV1HXJc6sEKR",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1HXJc6sEKR"
+    },
+    {
+      "股票名称": "小鹏汽车",
+      "股票代码": "09868.HK",
+      "评级": "维持超配/增持",
+      "目标价": "96港元",
+      "推荐理由": "机构明确看好小鹏向物理AI转型的长期价值，指出其已清晰构建汽车及机器人的物理AI平台，涵盖自研图灵芯片、VLA与世界模型融合架构、Robotaxi及机器人业务，并通过大规模真实道路数据与全栈资源体系建立核心壁垒。",
+      "来源视频": "#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "来源链接": "https://www.bilibili.com/video/BV1BRJH6CE86",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1BRJH6CE86"
+    },
+    {
+      "股票名称": "小鹏汽车",
+      "股票代码": "09868.HK",
+      "评级": "看好，维持超配",
+      "目标价": "96港元",
+      "推荐理由": "小鹏不再局限整车制造赛道，搭建起完整物理AI生态版图；自研图灵芯片规划年初获近百万片，还获得国际车企大众认可；第二代VLA落地首月自驾行驶里程占比突破50%，技术高效落地，转化硬件芯片、智能驾驶世界模型协同发力，技术壁垒持续筑牢，品牌价值重估空间广阔。",
+      "来源视频": "小鹏即将迎来价值全面重估#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "来源链接": "https://www.bilibili.com/video/BV1yrJH6pE4J",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1yrJH6pE4J"
+    },
+    {
+      "股票名称": "小鹏汽车",
+      "股票代码": "09868.HK",
+      "评级": "摩根士丹利维持增持评级；东吴证券坚定买入",
+      "目标价": "96港元",
+      "推荐理由": "小鹏自研世界模型更新，VPR2026算力、数据、模型闭环成型；大众入局合作，车企转型AI机器人平台，小鹏已经抢先一步建立壁垒。",
+      "来源视频": "小鹏转型物理 AI 真能重构行业格局？#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "来源链接": "https://www.bilibili.com/video/BV1YKJp6KEjJ",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1YKJp6KEjJ"
+    }
+  ],
+  "stocks": [
+    {
+      "股票名称": "阳光电源",
+      "股票代码": "300274.SZ",
+      "评级": "首次覆盖，看好",
+      "目标价": "230元",
+      "推荐理由": "公司正在从全球领先的光伏逆变器和储能企业转型为一体化AI电力解决方案提供商，有望受益于AI数据中心电力架构升级；其数据中心储能、SST及整体解决方案到2028年可能贡献接近200亿元收入和约39亿元净利润，估值相对全球同业有吸引力，是产业链里比较好的标的。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "大金重工",
+      "股票代码": "002487.SZ/01081.HK",
+      "评级": "看好",
+      "目标价": "原文未提及",
+      "推荐理由": "公司仍有信心完成今年海上风电基础装备200亿元订单目标，造船订单目标200亿至300亿元且进展正常；公司通过欧洲本土化布局、法务沟通和产业链合作降低潜在关税风险，基本面和估值都有吸引力，是板块里比较看好的股票。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "先导智能",
+      "股票代码": "300450.SZ",
+      "评级": "比较喜欢",
+      "目标价": "原文未提及",
+      "推荐理由": "受益于下游电池厂CAPEX扩张和技术迭代，二季度新签订单情况好于预期，可维持一季度约60%的增速甚至更高，新接订单利润率明显回升，储能业务增速很快。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "大族激光",
+      "股票代码": "002008.SZ",
+      "评级": "比较喜欢",
+      "目标价": "原文未提及",
+      "推荐理由": "同时受益于PCB和苹果产业链景气周期；AI服务器PCB、光模块PCB以及先进封装TGV等领域带来更高价值量和更好利润率，苹果设备需求到2027年也强于年初预期。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "思源电气",
+      "股票代码": "002028.SZ",
+      "评级": "非常喜欢，回调是买入机会",
+      "目标价": "原文未提及",
+      "推荐理由": "近期股价波动主要是板块轮动，不是二季度业绩低于预期；公司二季度情况正常、订单趋势较强，海外业务拓展、市场份额提升和产品结构改善可支撑中长期订单30%以上增速，收入和利润趋势好于订单增速，任何股价回调都是较好的买入机会。",
+      "来源视频": "大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！",
+      "来源链接": "https://www.bilibili.com/video/BV1o6Jw6HEHz",
+      "发布日期": "2026-06-10",
+      "_bvid": "BV1o6Jw6HEHz"
+    },
+    {
+      "股票名称": "腾讯控股",
+      "股票代码": "00700.HK",
+      "评级": "买入",
+      "目标价": "763港元",
+      "推荐理由": "微信将小程序和AI生态深度整合，并开始测试通过微信AI推荐和使用小程序；首批头部合作伙伴已参与内测，说明微信AI Agent开发接近关键阶段，对微信生态是较大利好；花旗维持腾讯买入评级。",
+      "来源视频": "大摩闭门会：腾讯：微信小程序接入AI生态测试相关解读 260609（推荐程度：4星选看）",
+      "来源链接": "https://www.bilibili.com/video/BV1HAEi6QEZw",
+      "发布日期": "2026-06-09",
+      "_bvid": "BV1HAEi6QEZw"
+    },
+    {
+      "股票名称": "中国铁塔",
+      "股票代码": "00788.HK",
+      "评级": "超配",
+      "目标价": "原文未提及",
+      "推荐理由": "原文称中国铁塔被大摩超配，因为它受益于5G和边缘计算的基础设施需求。",
+      "来源视频": "大摩：2万亿数据中心投资的传闻是真是假？",
+      "来源链接": "https://www.bilibili.com/video/BV1mKJN6GE7m",
+      "发布日期": "2026-06-15",
+      "_bvid": "BV1mKJN6GE7m"
+    },
+    {
+      "股票名称": "华润置地",
+      "股票代码": "01109.HK",
+      "评级": "首选标的",
+      "目标价": "原文未提及",
+      "推荐理由": "原文称继续建议投资者重点关注那些兼具行业整体增长红利与自身业绩增长潜力的个股，并认为华润置地为首选标的。",
+      "来源视频": "躺平叔6.13大摩揭穿楼市",
+      "来源链接": "https://www.bilibili.com/video/BV1HXJc6sEKR",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1HXJc6sEKR"
+    },
+    {
+      "股票名称": "建发股份",
+      "股票代码": "600153.SH",
+      "评级": "其次推荐",
+      "目标价": "原文未提及",
+      "推荐理由": "原文称继续建议投资者重点关注那些兼具行业整体增长红利与自身业绩增长潜力的个股，华润置地为首选标的，其次是建发股份。",
+      "来源视频": "躺平叔6.13大摩揭穿楼市",
+      "来源链接": "https://www.bilibili.com/video/BV1HXJc6sEKR",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1HXJc6sEKR"
+    },
+    {
+      "股票名称": "小鹏汽车",
+      "股票代码": "09868.HK",
+      "评级": "维持超配/增持",
+      "目标价": "96港元",
+      "推荐理由": "机构明确看好小鹏向物理AI转型的长期价值，指出其已清晰构建汽车及机器人的物理AI平台，涵盖自研图灵芯片、VLA与世界模型融合架构、Robotaxi及机器人业务，并通过大规模真实道路数据与全栈资源体系建立核心壁垒。",
+      "来源视频": "#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团",
+      "来源链接": "https://www.bilibili.com/video/BV1BRJH6CE86",
+      "发布日期": "2026-06-13",
+      "_bvid": "BV1BRJH6CE86"
+    }
+  ],
+  "messages": [
+    "📈 阳光电源\n- 评级：首次覆盖，看好\n- 目标价：230元\n- 推荐理由：公司正在从全球领先的光伏逆变器和储能企业转型为一体化AI电力解决方案提供商，有望受益于AI数据中心电力架构升级；其数据中心储能、SST及整体解决方案到2028年可能贡献接近200亿元收入和约39亿元净利润，估值相对全球同业有吸引力，是产业链里比较好的标的。\n- 来源：大摩闭门会 [大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！](https://www.bilibili.com/video/BV1o6Jw6HEHz) [2026-06-10]",
+    "📈 大金重工\n- 评级：看好\n- 目标价：原文未提及\n- 推荐理由：公司仍有信心完成今年海上风电基础装备200亿元订单目标，造船订单目标200亿至300亿元且进展正常；公司通过欧洲本土化布局、法务沟通和产业链合作降低潜在关税风险，基本面和估值都有吸引力，是板块里比较看好的股票。\n- 来源：大摩闭门会 [大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！](https://www.bilibili.com/video/BV1o6Jw6HEHz) [2026-06-10]",
+    "📈 先导智能\n- 评级：比较喜欢\n- 目标价：原文未提及\n- 推荐理由：受益于下游电池厂CAPEX扩张和技术迭代，二季度新签订单情况好于预期，可维持一季度约60%的增速甚至更高，新接订单利润率明显回升，储能业务增速很快。\n- 来源：大摩闭门会 [大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！](https://www.bilibili.com/video/BV1o6Jw6HEHz) [2026-06-10]",
+    "📈 大族激光\n- 评级：比较喜欢\n- 目标价：原文未提及\n- 推荐理由：同时受益于PCB和苹果产业链景气周期；AI服务器PCB、光模块PCB以及先进封装TGV等领域带来更高价值量和更好利润率，苹果设备需求到2027年也强于年初预期。\n- 来源：大摩闭门会 [大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！](https://www.bilibili.com/video/BV1o6Jw6HEHz) [2026-06-10]",
+    "📈 思源电气\n- 评级：非常喜欢，回调是买入机会\n- 目标价：原文未提及\n- 推荐理由：近期股价波动主要是板块轮动，不是二季度业绩低于预期；公司二季度情况正常、订单趋势较强，海外业务拓展、市场份额提升和产品结构改善可支撑中长期订单30%以上增速，收入和利润趋势好于订单增速，任何股价回调都是较好的买入机会。\n- 来源：大摩闭门会 [大摩周期论剑闭门会（2026-6-10最新）深度解析具体投资行业的分析解析！](https://www.bilibili.com/video/BV1o6Jw6HEHz) [2026-06-10]",
+    "📈 腾讯控股\n- 评级：买入\n- 目标价：763港元\n- 推荐理由：微信将小程序和AI生态深度整合，并开始测试通过微信AI推荐和使用小程序；首批头部合作伙伴已参与内测，说明微信AI Agent开发接近关键阶段，对微信生态是较大利好；花旗维持腾讯买入评级。\n- 来源：大摩闭门会 [大摩闭门会：腾讯：微信小程序接入AI生态测试相关解读 260609（推荐程度：4星选看）](https://www.bilibili.com/video/BV1HAEi6QEZw) [2026-06-09]",
+    "📈 中国铁塔\n- 评级：超配\n- 目标价：原文未提及\n- 推荐理由：原文称中国铁塔被大摩超配，因为它受益于5G和边缘计算的基础设施需求。\n- 来源：大摩闭门会 [大摩：2万亿数据中心投资的传闻是真是假？](https://www.bilibili.com/video/BV1mKJN6GE7m) [2026-06-15]",
+    "📈 华润置地\n- 评级：首选标的\n- 目标价：原文未提及\n- 推荐理由：原文称继续建议投资者重点关注那些兼具行业整体增长红利与自身业绩增长潜力的个股，并认为华润置地为首选标的。\n- 来源：大摩闭门会 [躺平叔6.13大摩揭穿楼市](https://www.bilibili.com/video/BV1HXJc6sEKR) [2026-06-13]",
+    "📈 建发股份\n- 评级：其次推荐\n- 目标价：原文未提及\n- 推荐理由：原文称继续建议投资者重点关注那些兼具行业整体增长红利与自身业绩增长潜力的个股，华润置地为首选标的，其次是建发股份。\n- 来源：大摩闭门会 [躺平叔6.13大摩揭穿楼市](https://www.bilibili.com/video/BV1HXJc6sEKR) [2026-06-13]",
+    "📈 小鹏汽车\n- 评级：维持超配/增持\n- 目标价：96港元\n- 推荐理由：机构明确看好小鹏向物理AI转型的长期价值，指出其已清晰构建汽车及机器人的物理AI平台，涵盖自研图灵芯片、VLA与世界模型融合架构、Robotaxi及机器人业务，并通过大规模真实道路数据与全栈资源体系建立核心壁垒。\n- 来源：大摩闭门会 [#大摩推小鹏汽车即机器人#大摩看好小鹏维持超配目标价96港元#小鹏汽车#小鹏集团](https://www.bilibili.com/video/BV1BRJH6CE86) [2026-06-13]"
+  ],
+  "summary": "Sanitized sample: raw transcripts, cookies, media files and long command output are not included."
+}
