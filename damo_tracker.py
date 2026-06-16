@@ -25,7 +25,21 @@ def parse_date_env(name, default):
 
 START = parse_date_env("DAMO_START_DATE", TODAY)
 END = parse_date_env("DAMO_END_DATE", TODAY)
-KEYWORDS = ["大摩闭门会", "大摩"]
+KEYWORDS = [
+    "大摩闭门会",
+    "大摩",
+    "大摩研报",
+    "大摩策略会",
+    "大摩电话会",
+    "摩根士丹利",
+    "摩根士丹利闭门会",
+    "摩根士丹利研报",
+    "Morgan Stanley",
+    "Morgan Stanley China",
+    "Morgan Stanley conference",
+    "Morgan Stanley research",
+    "MS research",
+]
 _OPENCLI_PROFILE = None
 EXCLUDE_TITLE_RE = re.compile(r"(小摩|摩根大通|JPMorgan|JP\s*Morgan)", re.I)
 ASR_ALIASES = {
@@ -63,7 +77,7 @@ def pub_date(value):
 def relevant_video(title):
     if EXCLUDE_TITLE_RE.search(title or ""):
         return False
-    return bool(re.search(r"(大摩|摩根士丹利|Morgan\s*Stanley)", title or "", re.I))
+    return bool(re.search(r"(大摩|摩根士丹利|Morgan\s*Stanley|\bMS\s+(?:research|conference|China)\b)", title or "", re.I))
 
 
 def get_json(url, params=None, timeout=25):
